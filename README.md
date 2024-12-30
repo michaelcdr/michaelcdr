@@ -51,6 +51,5 @@ With over 15 years of experience building web applications, I've been crafting r
 - Performance Optimization Techniques
 - Advanced Architectural Patterns
 - Cloud-Native Applications
-- 
+
 ---
-⭐️ From [your-username](https://github.com/michaelcdr)
