@@ -28,7 +28,6 @@ With over 15 years of experience building web applications, I've been crafting r
 - RESTful APIs
 - Microservices Design
 - Domain-Driven Design
-- 
 - Clean Architecture
 - Database Design & Optimization
 - Performance Optimization
