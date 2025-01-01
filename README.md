@@ -43,7 +43,7 @@ With over 15 years of experience building web applications, I've been crafting r
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michaelcdr@hotmail.com)
 
 ### 📚 Currently Studying
-- Microservices Architecture with .NET 8
+- Microservices Architecture
 - Vertical Slice Architecture
 - CQRS Implementation Best Practices
 - Event-Driven Systems
